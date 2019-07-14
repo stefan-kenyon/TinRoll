@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinRoll.Logic", "TinRoll.Lo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinRoll.Test", "TinRoll.Test\TinRoll.Test.csproj", "{009FCFAE-CBE1-46B7-8DDA-44880C6A9506}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinRoll.Integration", "TinRoll.Integration\TinRoll.Integration.csproj", "{65FBB0A1-BA21-4651-B89C-019226CF69FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{009FCFAE-CBE1-46B7-8DDA-44880C6A9506}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{009FCFAE-CBE1-46B7-8DDA-44880C6A9506}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{009FCFAE-CBE1-46B7-8DDA-44880C6A9506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65FBB0A1-BA21-4651-B89C-019226CF69FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65FBB0A1-BA21-4651-B89C-019226CF69FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65FBB0A1-BA21-4651-B89C-019226CF69FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65FBB0A1-BA21-4651-B89C-019226CF69FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
